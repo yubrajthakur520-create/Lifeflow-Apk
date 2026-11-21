@@ -1,0 +1,6 @@
+{
+  "name": "Lifeflow",
+  "description": "Small Habits. Better Days. Stronger You. A daily life habit tracker with routines, calendar tracking, analytics, and smart reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
